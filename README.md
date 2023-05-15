@@ -1,7 +1,7 @@
 # CHRISNA ADHI PRANOTO
 
 - 👋 Hi, I’m @chrisnaadhi
-- 👀 I’m interested in Javascript and Python
+- 👀 I’m interested in Javascript & Python
 - 🌱 I’m currently learning Svelte & Deno
 - 💞️ I’m looking to collaborate on Library & Information System Software
 - 📫 How to reach me : [Twitter](https://twitter.com/chrisnaadhip) and Discord (chrisna#7305)
